@@ -8,4 +8,4 @@ https://github.com/JSand89/BriefHtmlCss
 
 https://www.figma.com/file/V3q5EKMxoting5OUxNWTcS/Untitled?node-id=0%3A1
 ## Documentación adicional sobre problemas en el proceso:
-Haz click [Aquí](http://https://docs.google.com/document/d/1meklblcYtDj72KAQflvuwS51onukLgeRZFME7jW_Q5A/edit?usp=sharing "Aquí")
+https://docs.google.com/document/d/1meklblcYtDj72KAQflvuwS51onukLgeRZFME7jW_Q5A/edit?usp=sharing
