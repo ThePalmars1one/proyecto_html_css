@@ -1,0 +1,43 @@
+.institucional {
+    display: flex;
+    justify-content: space-between;
+    color: var(--fuente-ceniza-oscuro);
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.institucional__descripcion {
+    margin-bottom: 2rem;
+}
+
+.institucional__direccion {
+    font-size: 1.5rem;
+    line-height: normal;
+
+    margin-bottom: 2rem;
+}
+
+.institucional__contacto {
+    font-size: 1.2rem;
+    line-height: 1.8;
+
+    margin-top: 2rem;
+}
+
+.institucional__contacto-telefono {
+    line-height: normal;
+    text-decoration-line: underline;
+    color: blue;
+}
+
+.institucional__contacto-email {
+    color: var(--fuente-ceniza-oscuro);
+    text-decoration: underline;
+    display: block;
+    color: blue;
+}
+
+.controles_video {
+    width: 375px;
+    height: 210px;
+}

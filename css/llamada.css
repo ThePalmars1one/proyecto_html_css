@@ -1,0 +1,38 @@
+.llamada__container  {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    color: var(--background-blanco);
+    text-align: center;
+    
+    background-color: var(--background-llamada-mobile);
+    background-image: url("../img/bg-intro.jpg");
+    background-size: cover;
+
+
+    padding-top: 12.25rem;
+    padding-bottom: 2.5rem;
+}
+
+.llamada__titulo {
+    font-family: var(--montserrat);
+    font-size: 4rem;
+    font-weight: 700;
+    text-transform: uppercase;
+
+    margin-bottom: 1.5rem;
+}
+
+.llamada__texto {
+    font-size: 1.25rem;
+    line-height: normal;
+    margin-bottom: 1rem;
+}
+
+.llamada__boton {
+    margin-top: 2rem;
+    width: 100%;
+    font-weight: bold;
+}
+
